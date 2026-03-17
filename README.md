@@ -64,3 +64,5 @@ pip install -r requirements.txt
 - Sales peak Nov–Dec; dip Jan–Feb post-holiday
 - Oil price forward-filled (43 gaps)
 - ACF shows slow decay → non-stationary, differencing required in Phase 2
+
+https://github.com/DhruvMalviya0/time-series-demand-forecast
